@@ -21,7 +21,7 @@
 
 **Programming Languages:** Python, Java, JavaScript, PHP  
 **Web Technologies:** HTML, CSS, NodeJS  
-**Databases:** MySQL, MongoDB  
+**Databases:** MySQL, MongoDB, Oracle SQL  
 **Tools & Platforms:** Git, GitHub, VS Code, Android Studio  
 
 ---
