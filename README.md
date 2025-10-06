@@ -26,16 +26,6 @@
 
 ---
 
-### 🏆 GitHub Highlights
-
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-Ankit-MCA&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Ankit-MCA&layout=compact&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Coder-Ankit-MCA&theme=radical&no-frame=true&margin-w=10)
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-mishra-637547388)  
