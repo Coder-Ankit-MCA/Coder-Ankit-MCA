@@ -28,11 +28,11 @@
 
 ### 🏆 GitHub Highlights
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitmishra308&show_icons=true&theme=radical)
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-Ankit-MCA&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmishra308&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Ankit-MCA&layout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ankitmishra308&theme=radical&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Coder-Ankit-MCA&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
